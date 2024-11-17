@@ -2,15 +2,15 @@
 
 - 🌱 I’m currently learning .NET Core, C#, and SQL
 - 💼 I'm working on web development projects
-- 📫 You can reach me at: mustafabatuhancinar@gmail.com
+- 📫 You can reach me at: cinarmustafabatuhanr@gmail.com
 
 ## Connect with me:
 [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/mustafabatuhancinar/)
 
 ## Technologies:
-![C#](https://img.shields.io/badge/CSharp-blue?style=flat&logo=csharp)
-![.NET](https://img.shields.io/badge/.NET-purple?style=flat&logo=dotnet)
-![SQL](https://img.shields.io/badge/SQL-green?style=flat&logo=postgresql)
+![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![.NET](https://img.icons8.com/ios-filled/50/000000/dot-net.png)
+![SQL](https://img.icons8.com/color/48/000000/postgresql.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ## Tools:
