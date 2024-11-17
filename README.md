@@ -16,4 +16,4 @@
 ## Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=flat&logo=visualstudio)
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png)
+![Postman](https://img.icons8.com/color/48/000000/postman-api.png)
