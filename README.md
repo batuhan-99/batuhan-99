@@ -14,7 +14,6 @@
 ![SQL](https://img.shields.io/badge/SQL-green?style=flat&logo=postgresql)
 
 ## Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=flat&logo=visualstudio)
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
