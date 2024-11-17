@@ -10,7 +10,7 @@
 ## Technologies:
 ![C#](https://img.shields.io/badge/CSharp-purple?style=flat&logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-purple?style=flat&logo=dotnet)
-![SQL](https://img.shields.io/badge/SQL-navy blue?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-navyblue?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 
 ## Tools:
