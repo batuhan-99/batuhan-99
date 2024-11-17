@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mustafabatuhancinar/)
 
 ## Technologies:
-![C#](https://img.shields.io/badge/CSharp-purple?style=flat&logo=csharp)
+![C#](https://img.shields.io/badge/C#-purple?style=flat&logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-purple?style=flat&logo=dotnet)
 ![SQL](https://img.shields.io/badge/SQL-navyblue?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
