@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning .NET Core, C#, and SQL
 - 💼 I'm working on web development projects
-- 📫 You can reach me at: cinarmustafabatuhanr@gmail.com
+- 📫 You can reach me at: cinarmustafabatuhan@gmail.com
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mustafabatuhancinar/)
